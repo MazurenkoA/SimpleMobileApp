@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Mobile App</string>
+    <string name="hint_editText">Введите текст</string>
+    <string name="text_lab">First Lab of \"Mobile App\"</string>
+    <string name="text_editTextView">Добро пожаловать!</string>
+    <string name="button_editText">Click Me</string>
+    <string name="whatsup">Как дела?</string>
+    <string name="labelComboBox">Выберите что-то из выпадающего списка</string>
+    <string name="label_date">Выбранная дата:</string>
+
+    <string-array name="spinnerList">
+        <item>Ничего не выбрано :(</item>
+        <item>Обычный пользователь ಥ_ಥ</item>
+        <item>Студент ༼ つ ◕_◕ ༽つ</item>
+        <item>Киану Ривз ( •_•)>⌐■-■</item>
+        <item><i>Тот-Чьё-Имя-Нельзя-Называть</i></item>
+    </string-array>
+</resources>
